@@ -22,7 +22,7 @@ Elle permet de différencier ordinateurs et les sites webs entre-eux.
 
 Les ordinateurs ne sont pas des serveurs parce qu'ils ne sont pas connectés directement à internet.
 
-Ils se connectent directement au client.
+Ils se connectent directement au client. En Anglais, on appelle ça an ISP (fournisseur de service Internet).
 
 ---
 
@@ -47,4 +47,12 @@ Chaque fois que le paquet passe par un routeur, il ajoute sa propre adresse IP.
 Et quand le paquet revient à l'ordinateur, le routeur enlève son adresse IP.
 
 La paquet sait quel chemin il a suivi et ne se trompe pas de destinataires.
+
+---
+
+## L'internet est aussi simple que ça !
+
+![](https://i.insider.com/4df1262149e2ae725d0c0000)  
+
+This theory file was reviewed by Daniel Diaz
 
