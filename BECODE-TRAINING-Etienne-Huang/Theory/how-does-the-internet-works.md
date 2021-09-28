@@ -48,6 +48,9 @@ Et quand le paquet revient à l'ordinateur, le routeur enlève son adresse IP.
 
 La paquet sait quel chemin il a suivi et ne se trompe pas de destinataires.
 
+
+![cat](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif?cid=ecf05e476gbrau2hoiw6zm83g9nfmcunl6qdmdm958xubhaz&rid=giphy.gif&ct=g)
+=======
 ---
 
 ## L'internet est aussi simple que ça !
@@ -59,3 +62,6 @@ This theory file was reviewed by Daniel Diaz
 Je ne vois aucune erreur ! 
 
 this theory file has been reviewed by Thomas
+
+this theory file has been reviewed by Boris! 
+
