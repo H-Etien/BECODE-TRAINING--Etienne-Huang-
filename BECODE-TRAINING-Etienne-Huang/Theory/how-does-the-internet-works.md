@@ -56,3 +56,6 @@ La paquet sait quel chemin il a suivi et ne se trompe pas de destinataires.
 
 This theory file was reviewed by Daniel Diaz
 
+Je ne vois aucune erreur ! 
+
+this theory file has been reviewed by Thomas
